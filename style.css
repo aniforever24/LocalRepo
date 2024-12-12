@@ -8,4 +8,5 @@ body {
 h1 {
     color: brown;
     font-family: 'Bree Serif', sans-serif;
+    border-bottom: 2px solid rgb(195, 97, 97);
 }
