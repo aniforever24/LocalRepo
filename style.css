@@ -10,3 +10,11 @@ h1 {
     font-family: 'Bree Serif', sans-serif;
     border-bottom: 2px solid rgb(195, 97, 97);
 }
+.featcher1 > p {
+    color: blueviolet;
+    font-size: 2rem;
+    border: 1px solid currentColor;
+    width: fit-content;
+    padding: 4px 1rem;
+    background-color: aliceblue;
+}
