@@ -10,7 +10,7 @@ h1 {
     font-family: 'Bree Serif', sans-serif;
     border-bottom: 2px solid rgb(195, 97, 97);
 }
-.featcher1 > p {
+.feature1 > p {
     color: blueviolet;
     font-size: 2rem;
     border: 1px solid currentColor;
